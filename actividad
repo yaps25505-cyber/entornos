@@ -1,0 +1,57 @@
+Ejercicio 3. Etiquetas JavaDoc
+a) Método con parámetros y retorno → @param, @return
+
+b) Método que lanza excepción → @throws
+
+c) Clase desde versión 2.0 → @since
+
+d) Método obsoleto → @deprecated
+
+e) Enlazar con otro método → @see o {@link}
+
+f) Autor y versión → @author, @version
+Ejercicio 4. Evaluación de jsoup
+El README explica claramente que es una biblioteca para trabajar con HTML y XML.
+Incluye ejemplos básicos de uso.
+
+La documentación API es fácil de navegar y los nombres de clases y métodos son claros.
+
+Está orientada a desarrolladores.
+
+Mejoras:
+- Añadir más ejemplos avanzados en el README
+- Incluir tutorial paso a paso
+- Mejorar algunos comentarios JavaDoc con más detalle
+Ejercicio 5. Aplicación (resumen)
+Clases necesarias:
+- Jugador
+- Equipo
+- Pelota
+- Narrador
+- Partido
+
+Funcionamiento:
+- Dos equipos con jugadores aleatorios
+- Acciones: pase, regate y tiro
+- Comparación de estadísticas
+- Aleatoriedad ±10%
+- Duración: 3 minutos
+- Pausa entre jugadas: 2 segundos
+
+El narrador describe las jugadas, goles y resultado final.
+Ejercicio 6. Uso de IA
+La IA puede entender el código parcialmente, pero suele generar documentación genérica.
+
+Problemas detectados:
+- Descripciones imprecisas
+- Parámetros mal interpretados
+- Excepciones incorrectas
+- Falta de contexto
+
+Correcciones realizadas:
+- Ajuste de descripciones
+- Corrección de etiquetas
+- Mejora del contexto
+
+Conclusión:
+La IA es útil para empezar, pero siempre debe revisarse manualmente.
